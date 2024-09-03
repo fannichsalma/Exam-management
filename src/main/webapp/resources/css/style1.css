@@ -1,0 +1,22 @@
+body {
+    background-image: url('<c:url value="/resources/img/ensahnight.jpg" />');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    color: white;
+}
+
+h3, p, ul {
+    font-size: 18px;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
